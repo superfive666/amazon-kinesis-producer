@@ -1,3 +1,6 @@
 /target/
 *.iml
 .idea/
+
+# exclude this item from `mvn clean package` command
+dependency-reduced-pom.xml
